@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 [![Rit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIT-MESH&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIT-MESH&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### My Projects on:
+<a href="https://github.com/RIT-MESH/Machine-learning-projects" target="_blank"><img src="https://github.com/RIT-MESH/RIT-MESH/blob/main/Machine%20Learning.png" width=250 height=50 ></a> <a href="https://github.com/RIT-MESH/Deep-learning-and-Computer-Vision-projects" target="_blank"><img src="https://github.com/RIT-MESH/RIT-MESH/blob/main/Deep%20Learning.png" width=250 height=50 ></a>  <a href="https://github.com/RIT-MESH/Self-Driving-Car-courses-and-projects" target="_blank"> <img src="https://github.com/RIT-MESH/RIT-MESH/blob/main/Self-Driving-Car.png" width=250 height=50></a>
