@@ -1,5 +1,5 @@
-### Hi there 👋
-# I am Ritesh
+### Hi there, I'm Ritesh 👋
+# 
 
 <!--
 **RIT-MESH/RIT-MESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
