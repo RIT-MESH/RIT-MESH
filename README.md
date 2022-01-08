@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Rit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIT-MESH&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIT-MESH&hide=contribs,prs&theme=moltack&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIT-MESH&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIT-MESH&theme=moltack&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Don't forget to ⭐ the repository, if it helped you in anyway.
 
