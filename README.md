@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide=html,jupyter+notebook&username=RIT-MESH&theme=default&layout=compact)
 
+<a href="https://github.com/RIT-MESH/github-readme-activity-graph"><img alt="Ritesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RIT-MESH&bg_color=fdfefe&color=040404&line=08aadf&point=df0f08" /></a>
+
 ## Don't forget to ⭐ the repository, if it helped you in anyway.
 
 ### My Projects on:
