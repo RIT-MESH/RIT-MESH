@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![Rit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIT-MESH&hide=contribs,prs&theme=default&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide=html,c%2B%2B,jupyter+notebook&username=RIT-MESH&theme=default&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide=jupyter+notebook&username=RIT-MESH&theme=default&layout=compact)
 
 <!--a href="https://github.com/RIT-MESH/github-readme-activity-graph"><img alt="Ritesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RIT-MESH&bg_color=fdfefe&color=040404&line=08aadf&point=df0f08"width="120%"/></a-->
 
