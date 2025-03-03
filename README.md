@@ -20,6 +20,10 @@ Here are some ideas to get you started:
   **I have following Cloud platform skills**\
   <img alt="Snowflakes" src="https://img.shields.io/badge/Snowflakes%20-%23FF6F00.svg?&style=for-the-badge&logo=Snowflakes&logoColor=white" /> 
   <img alt="Oracel Cloud" src="https://img.shields.io/badge/Oracel Cloud%20-%23D00000.svg?&style=for-the-badge&logo=Oracel Cloud&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-%230078D6.svg?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"/>
+
+
 
 - 🔭 **I’m currently working on sharpening my skills on** \
 <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning%20-%2314354C.svg?&style=for-the-badge&logo=Machine Learning&logoColor=white" /> <img alt="Deep Learning" src="https://img.shields.io/badge/Deep Learning%20-%23D00000.svg?&style=for-the-badge&logo=Deep Learning&logoColor=white"/> <img alt="IoT" src="https://img.shields.io/badge/IoT%20-%23FF6F00.svg?&style=for-the-badge&logo=IoT&logoColor=white" />  <img src="https://img.shields.io/badge/opencv%20-%2514354C.svg?&style=for-the-badge&logo=opencv&logoColor=white"> <img alt="Robot Operating System (ROS)" src="https://img.shields.io/badge/Robot Operating System (ROS)%20-%23430098.svg?&style=for-the-badge&logo=Robot Operating System (ROS)&logoColor=white" />
