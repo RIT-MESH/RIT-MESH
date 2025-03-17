@@ -1,5 +1,7 @@
 ### Hi there, I'm Ritesh 👋
 # 
+🌍 **Translate this page:**  
+- 🇯🇵 [日本語で読む (Google翻訳)](https://translate.google.com/translate?hl=ja&sl=auto&u=https://github.com/RIT-MESH)
 
 <!--
 **RIT-MESH/RIT-MESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
