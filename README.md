@@ -58,4 +58,3 @@ Self Driving Car courses and projects            | Generative AI
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RIT-MESH)
-
