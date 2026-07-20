@@ -71,6 +71,13 @@ I work with AWS, Azure, Terraform, Linux, Windows Server, FortiGate, Active Dire
 
 Production-oriented AWS Zero Trust architecture using Terraform, multi-AZ networking, private workloads, least-privilege IAM, WAF, KMS encryption, centralized logging, and automated security validation.
 
+### [AWS Network Firewall and Security Hub](https://github.com/RIT-MESH/aws-network-firewall-security-hub)
+Secure AWS network architecture built with Terraform, using AWS Network Firewall for centralized traffic inspection and AWS Security Hub for security posture management and findings aggregation.
+
+### [Site Reliability Engineering Platform](https://github.com/RIT-MESH/sre-reliability-platform)
+
+Infrastructure reliability and observability project covering monitoring, incident response, automation, disaster recovery, and operational validation.
+
 ### [AWS GuardDuty, Tines, and Jira Incident Response](https://github.com/RIT-MESH/aws-guardduty-tines-jira-incident-response)
 
 Automated cloud-security incident-response workflow that normalizes GuardDuty findings, orchestrates response through Tines, creates Jira incidents, and includes Terraform, Python, tests, and CI validation.
@@ -79,9 +86,7 @@ Automated cloud-security incident-response workflow that normalizes GuardDuty fi
 
 AWS cost-optimization project focused on identifying idle or underused resources, automating recommendations, improving visibility, and applying practical FinOps controls.
 
-### Site Reliability Engineering Platform
 
-Infrastructure reliability and observability project covering monitoring, incident response, automation, disaster recovery, and operational validation.
 
 ## Current Focus
 
@@ -99,9 +104,5 @@ Infrastructure reliability and observability project covering monitoring, incide
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIT-MESH&theme=default)
 
 ## Connect With Me
-
-- 🌐 Portfolio: [ritmesh.com](https://ritmesh.com)
-- 💻 GitHub: [github.com/RIT-MESH](https://github.com/RIT-MESH)
-- 🎥 YouTube: TechWorldEnthusiast
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RIT-MESH)
