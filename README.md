@@ -1,10 +1,11 @@
+🌍 **Translate this page:** [日本語で読む](https://translate.google.com/translate?hl=ja&sl=auto&u=https://github.com/RIT-MESH)
+
 # Hi, I’m Ritesh Meshram 👋
 
 Infrastructure, Network, Cloud, and DevOps Engineer with experience in enterprise networking, firewall operations, server infrastructure, monitoring, automation, and AI-supported systems.
 
 I work with AWS, Azure, Terraform, Linux, Windows Server, FortiGate, Active Directory, monitoring platforms, and infrastructure automation. I also build practical projects in cloud security, incident response, cost optimization, disaster recovery, and DevSecOps.
 
-🌍 **Translate this page:** [日本語で読む](https://translate.google.com/translate?hl=ja&sl=auto&u=https://github.com/RIT-MESH)
 
 ## About Me
 
