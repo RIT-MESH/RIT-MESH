@@ -1,6 +1,6 @@
 🌍 **Translate this page:** [日本語で読む](https://translate.google.com/translate?hl=ja&sl=auto&u=https://github.com/RIT-MESH)
 
-# Hi, I’m Ritesh Meshram 👋
+# Hi, I’m Ritesh 👋
 
 Infrastructure, Network, Cloud, and DevOps Engineer with experience in enterprise networking, firewall operations, server infrastructure, monitoring, automation, and AI-supported systems.
 
