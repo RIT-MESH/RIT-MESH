@@ -1,60 +1,107 @@
-### Hi there, I'm Ritesh 👋
-# 
-🌍 **Translate this page:**  
-- 🇯🇵 [日本語で読む (Google翻訳)](https://translate.google.com/translate?hl=ja&sl=auto&u=https://github.com/RIT-MESH)
+# Hi, I’m Ritesh Meshram 👋
 
-<!--
-**RIT-MESH/RIT-MESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure, Network, Cloud, and DevOps Engineer with experience in enterprise networking, firewall operations, server infrastructure, monitoring, automation, and AI-supported systems.
 
-Here are some ideas to get you started:
+I work with AWS, Azure, Terraform, Linux, Windows Server, FortiGate, Active Directory, monitoring platforms, and infrastructure automation. I also build practical projects in cloud security, incident response, cost optimization, disaster recovery, and DevSecOps.
 
+🌍 **Translate this page:** [日本語で読む](https://translate.google.com/translate?hl=ja&sl=auto&u=https://github.com/RIT-MESH)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 👨‍💻 **I have following Programming languages skills**\
-  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=) <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23FF6F00.svg?&style=for-the-badge&logo=SQL&logoColor=white" />  ![Shell Script](https://img.shields.io/static/v1?style=for-the-badge&message=Shell+Script&color=222222&logo=Shell+Script&logoColor=FFD500&label=)   ![MATLAB](https://img.shields.io/static/v1?style=for-the-badge&message=MATLAB&color=006643&logo=MATLAB&logoColor=FFFFFF&label=) ![Embedded C](https://img.shields.io/static/v1?style=for-the-badge&message=Embedded+C&color=AA344D&logo=Embedded+C&logoColor=FFFFFF&label=) 
-  
-  **I have following Cloud platform skills**\
-  <img alt="Snowflakes" src="https://img.shields.io/badge/Snowflakes%20-%23FF6F00.svg?&style=for-the-badge&logo=Snowflakes&logoColor=white" />
-  <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle%20Cloud-%23F00000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-%230078D6.svg?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"/>
+## About Me
 
+- 🔐 Working with network infrastructure, firewalls, monitoring, and security
+- ☁️ Building AWS and Terraform-based cloud infrastructure projects
+- 🖥️ Experienced with Windows Server, Linux, Active Directory, Hyper-V, and VMware
+- ⚙️ Automating infrastructure tasks using Terraform, Ansible, Python, and Shell
+- 🤖 Exploring practical AI automation and intelligent infrastructure operations
+- 🌏 Based in Japan
 
+## Certifications
 
-- 🔭 **I’m currently working on sharpening my skills on** \
-  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-%23007ACC.svg?&style=for-the-badge&logo=DevOps&logoColor=white"/> <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-%2314354C.svg?&style=for-the-badge&logoColor=white" />
-<img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-%23D00000.svg?&style=for-the-badge&logoColor=white" /> <img alt="IoT" src="https://img.shields.io/badge/IoT%20-%23FF6F00.svg?&style=for-the-badge&logo=IoT&logoColor=white" />  <img src="https://img.shields.io/badge/opencv%20-%2514354C.svg?&style=for-the-badge&logo=opencv&logoColor=white"> <img alt="Robot Operating System (ROS)" src="https://img.shields.io/badge/Robot%20Operating%20System%20(ROS)-%23430098.svg?&style=for-the-badge&logoColor=white" />
+- AWS Certified DevOps Engineer – Professional
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Machine Learning Engineer – Associate
+- HashiCorp Certified: Terraform Associate
+- Cisco Certified Network Associate
+- Microsoft Certified: Windows Server Hybrid Administrator Associate
+- Microsoft Certified: Azure Fundamentals
+- Oracle Cloud Infrastructure Architect Associate
+- Oracle Cloud Infrastructure Foundations Associate
 
+## Core Skills
 
+### Cloud and DevOps
 
-![Rit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIT-MESH&hide=contribs,prs&theme=default&count_private=true&show_icons=true)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide=jupyter+notebook&username=RIT-MESH&theme=default&layout=compact)
+### Infrastructure and Networking
 
-<!--a href="https://github.com/RIT-MESH/github-readme-activity-graph"><img alt="Ritesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RIT-MESH&bg_color=fdfefe&color=040404&line=08aadf&point=df0f08"width="120%"/></a-->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-## Don't forget to ⭐ the repository, if it helped you in anyway.
+### Monitoring and Security
 
-### My Projects on:
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-Self Driving Car courses and projects            | Generative AI
-:-------------------------:|:-------------------------:
-<a href="https://github.com/RIT-MESH/Self-Driving-Car-courses-and-projects" target="_blank"><img src="https://github.com/RIT-MESH/RIT-MESH/blob/main/Self-Driving-Car.png" width=250 height=100></a>|<a href="https://github.com/RIT-MESH/Generative-AI" target="_blank"> <img src="https://github.com/RIT-MESH/RIT-MESH/blob/main/Generative%20AI.jpg" width=250 height=100></a>
- **Machine learning projects**             |  **Deep learning and Computer Vision projects**
-<a href="https://github.com/RIT-MESH/Machine-learning-projects" target="_blank"><img src="https://github.com/RIT-MESH/RIT-MESH/blob/main/Machine%20Learning.png" width=250 height=100 ></a>|<a href="https://github.com/RIT-MESH/Deep-learning-and-Computer-Vision-projects" target="_blank"><img src="https://github.com/RIT-MESH/RIT-MESH/blob/main/Deep%20Learning.png" width=250 height=100 ></a>
- **Electronics and IoT Projects**           |  **Covid19-projects**
-<a href="https://github.com/RIT-MESH/Electronics-and-IoT-Projects" target="_blank"><img src="https://github.com/RIT-MESH/RIT-MESH/blob/main/Electronics-and-IoT-Projects.png" width=250 height=100 ></a>  |  <a href="https://github.com/RIT-MESH/Covid19-projects" target="_blank"><img src="https://github.com/RIT-MESH/RIT-MESH/blob/main/COVID-19%20DATA%20SCIENCE%20PROJECTS.png" width=250 height=100 ></a>
+### Programming and Automation
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+## Featured Projects
 
-&nbsp; 
+### [AWS Zero Trust Reference Architecture](https://github.com/RIT-MESH/aws-zero-trust-reference-architecture)
 
+Production-oriented AWS Zero Trust architecture using Terraform, multi-AZ networking, private workloads, least-privilege IAM, WAF, KMS encryption, centralized logging, and automated security validation.
 
+### [AWS GuardDuty, Tines, and Jira Incident Response](https://github.com/RIT-MESH/aws-guardduty-tines-jira-incident-response)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RIT-MESH)
+Automated cloud-security incident-response workflow that normalizes GuardDuty findings, orchestrates response through Tines, creates Jira incidents, and includes Terraform, Python, tests, and CI validation.
+
+### [AWS Cost Optimization](https://github.com/RIT-MESH/AWS-cost-optimization)
+
+AWS cost-optimization project focused on identifying idle or underused resources, automating recommendations, improving visibility, and applying practical FinOps controls.
+
+### Site Reliability Engineering Platform
+
+Infrastructure reliability and observability project covering monitoring, incident response, automation, disaster recovery, and operational validation.
+
+## Current Focus
+
+- AWS security and DevSecOps
+- Infrastructure as Code using Terraform
+- Cloud architecture and disaster recovery
+- AWS cost optimization and FinOps
+- Network and server automation
+- Monitoring, logging, and incident response
+
+## GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RIT-MESH&theme=default)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIT-MESH&theme=default)
+
+## Connect With Me
+
+- 🌐 Portfolio: [ritmesh.com](https://ritmesh.com)
+- 💻 GitHub: [github.com/RIT-MESH](https://github.com/RIT-MESH)
+- 🎥 YouTube: TechWorldEnthusiast
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RIT-MESH)
