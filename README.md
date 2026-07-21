@@ -100,8 +100,6 @@ AWS cost-optimization project focused on identifying idle or underused resources
 
 ## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RIT-MESH&theme=default)
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIT-MESH&theme=default)
 
 ## Connect With Me
