@@ -99,8 +99,9 @@ AWS cost-optimization project focused on identifying idle or underused resources
 - Monitoring, logging, and incident response
 
 ## GitHub Activity
+![RIT-MESH activity](https://github-readme-activity-graph.vercel.app/graph?username=RIT-MESH)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIT-MESH&theme=default)
+![RIT-MESH stats](https://github-readme-stats-eight-theta.vercel.app/api?username=RIT-MESH&show_icons=true&theme=default)
 
 ## Connect With Me
 
