@@ -1,6 +1,6 @@
 🌐 **このページを翻訳:** [English で読む](https://translate.google.com/translate?hl=en&sl=ja&u=https://github.com/RIT-MESH)
 
-# こんにちは、Ritesh です 👋
+# ようこそ、Ritesh です 👋
 
 エンタープライズネットワーク、ファイアウォール運用、サーバーインフラ、監視、自動化、AI 支援システムの経験を持つ、インフラ・ネットワーク・クラウド・DevOps エンジニアです。
 
