@@ -87,6 +87,10 @@ GuardDuty の検出事項を正規化し、Tines でレスポンスをオーケ�
 
 アイドル状態や低利用率のリソースを特定し、推奨を自動化し、可視性を向上させ、実践的な FinOps 管制を適用することに焦点を当てた AWS コスト最適化プロジェクトです。
 
+### [Terraform-Azure-Labs-and-Case_Studies](https://github.com/RIT-MESH/Terraform-Azure-Labs-and-Case_Studies)
+Microsoft Azure上でTerraformを実践的に学ぶためのハンズオンリポジトリです。全6セクション、126の実践ラボ、5つの再利用可能なTerraformモジュールで構成されており、IaCの基礎から応用、Azureリソースの構築、State管理、変数・出力、モジュール設計、実務を想定したクラウドインフラ構築まで幅広く学べる内容となっています。
+
+
 
 
 ## 現在の注力分野
